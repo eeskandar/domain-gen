@@ -30,6 +30,4 @@ window.onload = function() {
 
   mixer(pron, adj, nouns, dot);
   console.log(allMix);
-
-  test.innerHTML = allMix;
 };
